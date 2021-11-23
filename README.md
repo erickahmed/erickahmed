@@ -5,7 +5,7 @@
 👋 Hey, @erickahmed here! I'm 21 and currently studing Automotive Engineering at UniMoRe, but programming is my second passion after cars and machines!
 I'm a self-taught software developer, tho I still have a LONG road after me to become truly proficient in software developement, which is a very broad industry.
 I hope to combine my two passions in one job, where I can design vehicle systems and do some low-level programming.
-Currently I think that EV and autonomous driving are two niches that would be perfect for me
+I think that EV and autonomous driving are two niches that would be perfect for me
 
 
 
