@@ -1,12 +1,13 @@
-# Hey there, welcome to my profile :) #
+# 👋 Hey there, welcome to my profile :) #
 
-![header](https://user-images.githubusercontent.com/74315338/143016052-2ae61256-fafc-49b1-ac9a-44e0153154ab.png)
+<a href="https://ibb.co/6n0wxyq"><img align="left" src="https://i.ibb.co/ngMmvwK/header.png" alt="header" border="0"></a>
 
-👋 Hey, @erickahmed here! I'm 21 and currently studing Automotive Engineering at UniMoRe, but programming is my second passion after cars and machines!
-I'm a self-taught software developer, tho I still have a long road after me to become truly proficient in it.
-I hope to combine my two passions in one job, where I can design vehicle systems and do some low-level programming.
-I'm also interested in the crypto revolution that is happening and all that it derives, like metaverse projects
 
+Hey, @erickahmed here! I'm 21 and currently studing Automotive Engineering at UniMoRe, but programming is my second passion after cars and machines!
+I'm a self-taught software developer, tho I'm still at my early phases.
+I hope to combine my two passions in one job, and design physical parts while doing some low-level programming.
+
+## 📷 Highlights
 
 - ⚙️ Undergraduate in Automotive Engineering (Bachelor's Degree)
 - 🔭 Graduate in Mechatronics Technology (Industrial Technical School Diploma)
@@ -15,27 +16,39 @@ I'm also interested in the crypto revolution that is happening and all that it d
 - 💞️ I’m looking to collaborate on open-source projects in the realm of autonomous driving and crypto
 
 
-## 📫 Get in Touch
-
-   - [StackOverflow](stackoverflow.com/users/16104417/erick)
-   - [LinkedIn](linkedin.com/in/erickahmed/)
-   - [GrabCAD](grabcad.com/erick.ahmed-4)
-   - [Personal website](https://erickahmed.me/)
-   - [E-mail](ahmederick00@gmail.com)
-
 ## 🧑‍🔬 My skills
 
+### Programming Languages
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### Web
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### IOT
+
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+### OS
 
 
+## 📫 Get in Touch
 
+   - [![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](stackoverflow.com/users/16104417/erick)
+   - [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/erickahmed/)
+   - [![](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://erickahmed.me/)
+   - [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ahmederick00@gmail.com)
+ 	
+## 📊 Stats for nerds
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickahmed&layout=compact)](https://github.com/erickahmed)
 
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=erickahmed&count_private=true&theme=react&showicons=true)]()
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=erickahmed&langs_count=5&theme=react)]()
-
-[![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=nmasi322)](https://github.com/YOUR_USERNAME/github-contribution-stats/)
+[![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=erickahmed)](https://github.com/erickahmed)
 
 <!---
 erickahmed/erickahmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
