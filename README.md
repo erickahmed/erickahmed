@@ -39,6 +39,10 @@ I hope to combine my two passions in one job, and design physical parts while do
 
 ### OS
 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## 📫 Get in Touch
 
@@ -46,17 +50,10 @@ I hope to combine my two passions in one job, and design physical parts while do
    - [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/erickahmed/)
    - [![](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://erickahmed.me/)
    - [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ahmederick00@gmail.com)
+   - ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
  	
 ## 📊 Stats for nerds
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickahmed&layout=compact)](https://github.com/erickahmed)
 
 [![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=erickahmed)](https://github.com/erickahmed)
-
-<!---
-erickahmed/erickahmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-
