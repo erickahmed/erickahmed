@@ -15,7 +15,7 @@ __________________________________________
 ## 📷 Highlights
 
 - ⚙️ Undergraduate in Automotive Engineering (Bachelor's Degree)
-- 🔭 Graduate in Mechatronics Technology (Industrial Technical School Diploma)
+- 🔭 Technical School Diploma in Mechanical&Mechatronics Tecnology
 - 👀 I’m interested in autonomous driving, crypto and metaverse
 - 🌱 I’m currently learning Python, Algorithms and Data Structures
 - 💞️ I’m looking to collaborate on open-source projects in the realm of autonomous driving and crypto
