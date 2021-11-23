@@ -7,6 +7,7 @@ Hey, @erickahmed here! I'm 21 and currently studing Automotive Engineering at Un
 I'm a self-taught software developer, tho I'm still at my early phases.
 I hope to combine my two passions in one job, and design physical parts while doing some low-level programming.
 
+
 ## 📷 Highlights
 
 - ⚙️ Undergraduate in Automotive Engineering (Bachelor's Degree)
