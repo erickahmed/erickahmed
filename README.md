@@ -8,34 +8,38 @@ I hope to combine my two passions in one job, where I can design vehicle systems
 I'm also interested in the crypto revolution that is happening and all that it derives, like metaverse projects
 
 
-- ⚙️ Undergraduate in Automotive Engineering (Bachelor's)
-- 🔭 Graduate in Mechatronics Technology (Industrial Technical School)
+- ⚙️ Undergraduate in Automotive Engineering (Bachelor's Degree)
+- 🔭 Graduate in Mechatronics Technology (Industrial Technical School Diploma)
 - 👀 I’m interested in autonomous driving, crypto and metaverse
 - 🌱 I’m currently learning Python, Algorithms and Data Structures
 - 💞️ I’m looking to collaborate on open-source projects in the realm of autonomous driving and crypto
 
 
-# 📫 Get in Touch #
+## 📫 Get in Touch
 
-    StackOverflow: stackoverflow.com/users/16104417/erick
-    LinkedIn: linkedin.com/in/erickahmed/
-    GrabCAD: grabcad.com/erick.ahmed-4
-    Site: https://erickahmed.me/
-    E-mail: ahmederick00@gmail.com
+   - [StackOverflow](stackoverflow.com/users/16104417/erick)
+   - [LinkedIn](linkedin.com/in/erickahmed/)
+   - [GrabCAD](grabcad.com/erick.ahmed-4)
+   - [Personal website](https://erickahmed.me/)
+   - [E-mail](ahmederick00@gmail.com)
+
+## 🧑‍🔬 My skills
+
+
+
+
+
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=erickahmed&count_private=true&theme=react&showicons=true)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=erickahmed&langs_count=5&theme=react)]()
+
+[![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=nmasi322)](https://github.com/YOUR_USERNAME/github-contribution-stats/)
 
 <!---
 erickahmed/erickahmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-
-
-
-    🔭 Bachelor's degree in Computer Science at UniBo
-    🌱 I’m currently learning Cyber Security at UniMore
-    🌱 I’m currently learning Security Analyst and Web-App Vulnerabilities
-    ⚙️ Mastering: .py, .html,.css,.js,.ts
-    👯 I’m looking to collaborate on Open Source and/or Videogames projects
-    💬 I'm mostly active within the Cyber Security, Vue.JS, Node.JS and Unity 3D communities
-
 --->
 
 
