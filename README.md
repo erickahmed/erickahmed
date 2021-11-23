@@ -2,7 +2,7 @@
 
 <a href="https://ibb.co/6n0wxyq"><img align="left" src="https://i.ibb.co/ngMmvwK/header.png" alt="header" border="0"></a>
 
-__________________________________________
+
 Hey, @erickahmed here! I'm 21 and currently studing Automotive Engineering at UniMoRe, but programming is my second passion after cars and machines!
 I'm a self-taught software developer, tho I'm still at my early phases.
 I hope to combine my two passions in one job, and design physical parts while doing some low-level programming.
