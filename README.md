@@ -3,11 +3,6 @@
 Hey, @erickahmed here! I'm 21 and currently studing Automotive Engineering at UniMoRe, but programming is my second passion after cars and machines!
 I'm a self-taught software developer, tho I'm still at my early phases.
 I hope to combine my two passions in one job, and design physical parts while doing some low-level programming.
-__________________________________________
-    
-      
-     
-
 
 ## 📷 Highlights
 
