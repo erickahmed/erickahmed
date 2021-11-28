@@ -1,7 +1,7 @@
 # 👋 Hey there, welcome to my profile :)  #
 
 Hey, @erickahmed here! I'm 21 and currently studing Automotive Engineering at UniMoRe, but programming is my second passion after cars and machines!
-I'm a self-taught software developer, tho I'm still at my early phases.
+I'm learning software developement as a self-taught, tho I'm still at my early phases
 I hope to combine my two passions in one job, and design physical parts while doing some low-level programming.
 
 ## 📷 Highlights
@@ -10,8 +10,7 @@ I hope to combine my two passions in one job, and design physical parts while do
 - ⚙️ Technical Secondary School Diploma in Mechanics and Mechatronics
 - 👀 I’m interested in autonomous driving, crypto and metaverse
 - 🌱 I’m currently learning Python, Algorithms and Data Structures
-- 💞️ I’m looking to collaborate on open-source projects in the realm of autonomous driving and crypto
-
+- 💞️ I’m looking to collaborate on open-source projects that are beginner friendly
 
 ## 🧑‍🔬 My skills
 
