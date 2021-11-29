@@ -1,8 +1,7 @@
-# 👋 Hey there, welcome to my profile :)  #
+# 👋 Hey there :)  #
 
-Hey, @erickahmed here! I'm 21 and currently studing Automotive Engineering at UniMoRe, but programming is my second passion after cars and machines!
-I'm learning software developement as a self-taught, tho I'm still at my early phases
-I hope to combine my two passions in one job, and design physical parts while doing some low-level programming.
+Hey, @erickahmed here! I'm 21 and currently studing Automotive Engineering at UniMoRe, but programming is my second passion after cars and mechanics!
+I'm learning programming as a self-taught, and I aspire to combine my two passions in one job, and design physical parts while doing programming.
 
 ## 📷 Highlights
 
