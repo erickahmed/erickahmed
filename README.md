@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently mastering my skills in **Java**
 
-- 👯 I’m looking to collaborate on **C++ and Java projects**
+- 👯 I’m looking to collaborate on **C++** and **Java** projects
 
-- 💬 Ask me about **C/C++, Computer Architecture, Android**	
+- 💬 Ask me about **C/C++**, **Computer Architecture**, **x86 Assembly**	
  <br>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/erickahmed) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=erickahmed.visitor-badge)](https://github.com/erickahmed) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/erickahmed)
