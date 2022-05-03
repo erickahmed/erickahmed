@@ -32,7 +32,8 @@
 <a href="https://www.mathworks.com/?s_tid=gn_logo" target="_blank"> <img src="https://i.ibb.co/2NPG20Z/logo-assembly-language.png" alt="x86-asm" width="40" height="40"/> </a>
 <a href="https://html5.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> </a>
-<a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> </a> </p>
+<a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> </a>
+<a href="https://www.javascript.com/" target="_blank"> <img src="https://i.ibb.co/PzP7Q9Y/v3d5m5ge2uj81.jpg" alt="verilog-systemverilog" width="40" height="40"/> </a></p>
 
 <p> <p align="center"> <a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> </a> 
