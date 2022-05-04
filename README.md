@@ -18,8 +18,8 @@
 
 <sup><kbd>***[Click here](https://github.com/erickahmed/my-views-counter)***</kbd> *to view my other projects.</sup>* <br>
 
-<h3 align="center"> Favorite quote</h3>
-<p> <p align="center"> “When something is important enough, you do it even if the odds are not in your favour.”  – Elon Musk</p>
+<h3 align="center"> Favorite quote </h3>
+<p> <p align="center"> “When something is important enough, you do it even if the odds are not in your favour.”  – Elon Musk </p>
 
 
 <h3 align="center">Languages, OS, IDEs and Tools</h3>
@@ -33,26 +33,30 @@
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> </a>
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/?s_tid=gn_logo" target="_blank"> <img src="https://i.ibb.co/2NPG20Z/logo-assembly-language.png" alt="x86-asm" width="40" height="40"/> </a>
-<a href="https://www.javascript.com/" target="_blank"> <img src="https://i.ibb.co/PzP7Q9Y/v3d5m5ge2uj81.jpg" alt="verilog-systemverilog" width="40" height="40"/> </a></p>
+<a href="https://www.javascript.com/" target="_blank"> <img src="https://i.ibb.co/PzP7Q9Y/v3d5m5ge2uj81.jpg" alt="verilog-systemverilog" width="40" height="40"/> </a>
+</p>
 
 <p> <p align="center"> <a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> </a> 
 <a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain-wordmark.svg" alt="debian" width="40" height="40"/> </a>
 <a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/opensuse/opensuse-original-wordmark.svg" alt="ubuntu" width="40" height="40"/> </a>
 <a href="https://ubuntu.com/" target="_blank"> <img src="https://i.ibb.co/d2VhVpr/imgbin-kali-linux-android-png.png" alt="kali" width="40" height="40"/> </a>
-<a href="https://www.blender.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" alt="blender" width="40" height="40"/> </a> </p>
+<a href="https://www.blender.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" alt="blender" width="40" height="40"/> </a>
+</p>
 
 <p> <p align="center"> <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="vs" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/Download" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/Download" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="android-studio" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/Download" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="vim" width="40" height="40"/> </a> 
-<a href="https://code.visualstudio.com/Download" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/> </a> </p>
+<a href="https://code.visualstudio.com/Download" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/> </a>
+</p>
 
 
 <p> <p align="center"> <a href="https://www.blender.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/> </a>
 <a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="ubuntu" width="40" height="40"/>
 <a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry" width="40" height="40"/> </a>
-<a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/> </a> </p>
+<a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/> </a>
+</p>
 
   
 <h3 align="center">Connect with me</h3>
@@ -61,7 +65,7 @@
 <a href="https://twitter.com/erick_ahmed_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="erick_ahmed_0" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16104417/erick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17074530" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/erick_ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="w4llfl0w3r13" height="30" width="40" /></a>
-<a href="https://discord.gg/worksafeporn#3595" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wallflower#7007" height="30" width="40" /></a>
+<a href="https://discord.gg/worksafeporn#3595" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wallflower#7007" height="30" width="40" /></a> 
 </p>
 
 <h3 align="center">Stats</h3>
@@ -74,8 +78,3 @@
 (in the last 365 days, languages pie based on number of commits)
 
 ![](./profile-3d-contrib/profile-night-green.svg)
-
-<br/>
-<h3 align="center">
-	⬇ Check my pinned projects below and leave a ⭐️ ⬇
-</h3>
