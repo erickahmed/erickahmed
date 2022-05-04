@@ -38,7 +38,7 @@
 <p> <p align="center"> <a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> </a> 
 <a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain-wordmark.svg" alt="debian" width="40" height="40"/> </a>
-<a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/simple-icons/simple-icons/blob/521c96fd04b0ea93034db8715eda5a4de27a58bb/icons/kalilinux.svg" alt="kali" width="40" height="40"/> </a>
+<a href="https://ubuntu.com/" target="_blank"> <img src="https://i.ibb.co/d2VhVpr/imgbin-kali-linux-android-png.png" alt="kali" width="40" height="40"/> </a>
 <a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/opensuse/opensuse-original-wordmark.svg" alt="ubuntu" width="40" height="40"/> </a>
 <a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry" width="40" height="40"/> </a>
 <a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/> </a> </p>
