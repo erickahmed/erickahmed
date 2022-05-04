@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **C++** and **Java** projects
 
-- 💬 Ask me about **C/C++**, **Computer Architecture**, **x86 Assembly**	
+- 💬 Ask me about **C/C++**, **Computer Architecture**, **Machine Learning**	
  <br>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/erickahmed) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=erickahmed.visitor-badge)](https://github.com/erickahmed) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/erickahmed)
@@ -22,11 +22,11 @@
 <p> <p align="center"> “When something is important enough, you do it even if the odds are not in your favour.”  – Elon Musk</p>
 
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages, OS, IDEs and Tools:</h3>
 <p> <p align="center"> <a href="https://devdocs.io/c/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://devdocs.io/cpp/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> </a>
 <a href="https://devdocs.io/cpp/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-original-wordmark.svg" alt="embedded-c" width="40" height="40"/> </a>
-<a href="https://www.java.com/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.java.com/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.mathworks.com/?s_tid=gn_logo" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/> </a>
 <a href="https://html5.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
@@ -38,12 +38,9 @@
 <p> <p align="center"> <a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> </a> 
 <a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain-wordmark.svg" alt="debian" width="40" height="40"/> </a>
-<a href="https://ubuntu.com/" target="_blank"> <img src="https://i.ibb.co/d2VhVpr/imgbin-kali-linux-android-png.png" alt="kali" width="40" height="40"/> </a>
 <a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/opensuse/opensuse-original-wordmark.svg" alt="ubuntu" width="40" height="40"/> </a>
-<a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry" width="40" height="40"/> </a>
-<a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/> </a> </p>
-
-
+<a href="https://ubuntu.com/" target="_blank"> <img src="https://i.ibb.co/d2VhVpr/imgbin-kali-linux-android-png.png" alt="kali" width="40" height="40"/> </a>
+<a href="https://www.blender.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" alt="blender" width="40" height="40"/> </a> </p>
 
 <p> <p align="center"> <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="vs" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/Download" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
@@ -52,8 +49,10 @@
 <a href="https://code.visualstudio.com/Download" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/> </a> </p>
 
 
-<p> <p align="center"> <a href="https://www.blender.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/> </a> 
-<a href="https://www.blender.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" alt="blender" width="40" height="40"/> </a> </p>
+<p> <p align="center"> <a href="https://www.blender.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/> </a>
+<a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="ubuntu" width="40" height="40"/>
+<a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry" width="40" height="40"/> </a>
+<a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/> </a> </p>
 
   
 <h3 align="center">Connect with me:</h3>
