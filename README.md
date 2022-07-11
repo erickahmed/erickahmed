@@ -1,11 +1,13 @@
-<h1 align="center">Hello Fellow Engineers! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=40px></h1>
+<h1 align="center">Hello people!
 <h3 align="center"> I'm Erick, an Automotive Engineering student and self taught Software Developer</h3>
 
-- 🌱 I’m currently mastering my skills in **Java**
-
+- 🌱 I’m currently mastering my skills in **Java** and **Algorithms and Data Structures**
+ 
 - 👯 I’m looking to collaborate on **C++** and **Java** projects
 
 - 💬 Ask me about **C/C++**, **Computer Architecture**, **Machine Learning**	
+
+- 🔧 Currently working on **Formula SAE Race Cars**, **ML Tech Startup**
  <br>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/erickahmed) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=erickahmed.visitor-badge)](https://github.com/erickahmed) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/erickahmed)
